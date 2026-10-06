@@ -8,6 +8,7 @@ Student ID: 24560081
 ## Structure
 
 - Week01 - JAVA BASICS
+- Week02 - FROM OBJECTS TO CLASSES, METHODS, CONSTRUCTORS, AND OVERLOADING
 
 ## Environment
 - Java: JDK 25
