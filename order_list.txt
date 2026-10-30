@@ -1,0 +1,45 @@
+COSMETIC STORE ORDER LIST
+=========================
+
+-------------------------
+Order ID: 2345
+Invoice Date: 2020-06-27
+Customer ID: C001 | Name: Tran Van Khai | Address: HCMC | Phone: 0987654321
+Package: Romantic Package
+  ID: C002     | Type: Rose Perfume                     | Volume: 1000  ml | Price: 20,000,000 VND
+  ID: C001     | Type: Dry Skin Shower Gel              | Volume: 1000  ml | Price: 20,000,000 VND
+Package Total: 40,000,000 VND
+ORDER TOTAL: 40,000,000 VND
+
+-------------------------
+Order ID: TC01	Romantic: Rose 50 ml, Dry Skin Gel 100 ml
+Invoice Date: 2026-10-29
+Customer ID: C001 | Name: Tran Minh Hoang | Address: HCMC | Phone: 0987654123
+Package: Romantic Package
+  ID: C001     | Type: Rose Perfume                     | Volume: 50    ml | Price: 1,000,000 VND
+Package Total: 1,000,000 VND
+ORDER TOTAL: 1,000,000 VND
+
+-------------------------
+Order ID: TC001
+Invoice Date: 2025-12-30
+Customer ID: 2456 | Name: Pham Chung Chinh | Address: Hanoi | Phone: 0987651234
+Package: Fresh-Air Package
+  ID: C004     | Type: Oily Hair Shampoo - Standard 2   | Volume: 50    ml | Price: 2,000,000 VND
+Package Total: 2,000,000 VND
+ORDER TOTAL: 2,000,000 VND
+
+-------------------------
+Order ID: TC003
+Invoice Date: 2026-07-28
+Customer ID: 2346 | Name: Ho Minh Khai | Address: TP Da Nang | Phone: 0123456789
+Package: Romantic Package
+  ID: 2        | Type: Rose Perfume                     | Volume: 50    ml | Price: 1,000,000 VND
+  ID: 902348   | Type: Oily Hair Shampoo - Standard 1   | Volume: 385   ml | Price: 11,550,000 VND
+  ID: 0128     | Type: Oily Skin Shower Gel             | Volume: 60    ml | Price: 2,400,000 VND
+Package Total: 14,950,000 VND
+ORDER TOTAL: 14,950,000 VND
+
+=========================
+Number of Orders: 4
+Total Revenue: 57,950,000 VND
